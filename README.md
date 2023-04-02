@@ -27,9 +27,10 @@ Note: please insert the screenshot of the answers to your research question by C
 ### Part 1: Model
 - Game Environment
   - Set of the players:
-  - Strategies
-- Solution Concept
-- Payoffs
+  - Strategies:
+  - Payoffs:
+- Solution Based on Backward Induction:
+- Evaluation:
 
 ### Part 2: Code:  oTree Demo Customization
 - Game Environment   
