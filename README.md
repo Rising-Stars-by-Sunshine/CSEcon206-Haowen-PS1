@@ -2,7 +2,7 @@
 ## Project information
 - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the PS 1 project for [CSEcon 206 Computational Microeconomics, 2023 Spring Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Problem Set 1 for [CSEcon 206 Computational Microeconomics, 2023 Spring Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her instructions on CSEcon 206 and thanks all the classmates for the inspiring discussions and feedbacks. 
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
@@ -24,13 +24,14 @@ Note: please insert the screenshot of the answers to your research question by C
 - more about the author
 - references
 
-### Model
+### Part 1: Model
 - Game Environment
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
 
-### Code
+### Part 2: Code:  oTree Demo Customization
 - Game Environment
+  - The set of the players    
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
