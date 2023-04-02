@@ -25,10 +25,14 @@ Note: please insert the screenshot of the answers to your research question by C
 - references
 
 ### Part 1: Model
-- Game Environment
-  - Set of the players:
-  - Strategies:
-  - Payoffs:
+
+The trust game is typically played by two players. One player, called the "trustor," is given an endowment (or initial sum of money) and must decide how much of it to send to the other player, called the "trustee." The amount sent by the trustor is referred to as the "investment." The trustee then has the option to either keep the investment or to return a portion of it, referred to as the "reciprocity" amount, back to the trustor. In the following description of this part, I analyzed 
+
+- **Game Environment**:
+  - *Set of the players*: The set of players consists of two anonymous individuals who do not know each other. They are randomly matched and do not have any information about the other player's identity or characteristics.
+  - *Strategies*: The investor can choose to keep the money or invest a portion of it with the trustee. The trustee can choose to either return the investment plus an additional amount (representing trust and reciprocity) or keep the investment for themselves (representing non-cooperation).
+  - *Payoffs*: If the investor chooses to invest, the amount invested is multiplied by a factor, and this amount is then given to the trustee. The trustee can then choose to either return the investment plus an additional amount (representing trust and reciprocity), or keep the investment for themselves (representing non-cooperation). If the trustee chooses to return the investment plus an additional amount, both players receive a positive *payoff*. However, if the trustee keeps the investment for themselves, both players receive a negative *payoff*. If the investor chooses not to invest, both players receive a *payoff* of zero.
+
 - Solution Based on Backward Induction:
 - Evaluation:
 
