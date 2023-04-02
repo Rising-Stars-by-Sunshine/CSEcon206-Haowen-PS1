@@ -1,4 +1,4 @@
-# # Problem Set 1: Game Theory Baseline
+# Problem Set 1: Game Theory Baseline
 ## Project information
   - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
