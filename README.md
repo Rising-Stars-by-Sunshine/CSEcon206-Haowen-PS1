@@ -50,7 +50,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### More about the Author
 ![image](spotlight/soccer.jpg)
-- self-introduction
+- Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
 - Final reflections 
   - intellectual growth
   - professional growth
