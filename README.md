@@ -34,18 +34,19 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Part 2: Code:  oTree Demo Customization
 - [Customized oTree code](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/code/trust-monday.otreezip) 
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
+- Code Customization
+  -  Endowment
+  -  Multiplier
+  -  Demonstration
+- Explanation
 
 
 ### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+- Behavioral experimental paper:
+  -  Research question: 
+  -  How behavior in the experiments differ from backward induction?
+  -  Behavioral foundation:
+- Reinforcement learning paper:
 
 ### More about the Author
 - headshot
@@ -60,17 +61,4 @@ Note: please insert the screenshot of the answers to your research question by C
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
 
