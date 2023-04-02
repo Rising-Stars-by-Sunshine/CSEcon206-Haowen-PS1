@@ -1,6 +1,6 @@
 # Problem Set 1: Game Theory Baseline
 ## Project information
-  - **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
+- **Author**: Haowen Ji, Data Science, Class 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the PS 1 project for [CSEcon 206 Computational Microeconomics, 2023 Spring Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her instructions on CSEcon 206 and thanks all the classmates for the inspiring discussions and feedbacks. 
