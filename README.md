@@ -33,7 +33,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - Evaluation:
 
 ### Part 2: Code:  oTree Demo Customization
-- [Customized oTree code] () 
+- [Customized oTree code] (https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/code/trust-monday.otreezip) 
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
