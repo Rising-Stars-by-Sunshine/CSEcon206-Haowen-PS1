@@ -49,7 +49,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - Reinforcement learning paper:
 
 ### More about the Author
-- headshot
+![image](spotlight/soccer.jpg)
 - self-introduction
 - Final reflections 
   - intellectual growth
