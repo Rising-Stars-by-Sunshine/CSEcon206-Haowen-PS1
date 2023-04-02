@@ -26,12 +26,13 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Part 1: Model
 - Game Environment
+  - Set of the players:
+  - Strategies
 - Solution Concept
-- Evaluations: e.g. efficiency and fairness
+- Payoffs
 
 ### Part 2: Code:  oTree Demo Customization
-- Game Environment
-  - The set of the players    
+- Game Environment   
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
