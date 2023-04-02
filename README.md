@@ -33,7 +33,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - Evaluation:
 
 ### Part 2: Code:  oTree Demo Customization
-- Game Environment   
+- [Customized oTree code] () 
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
