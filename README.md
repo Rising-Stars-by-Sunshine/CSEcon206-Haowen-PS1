@@ -55,7 +55,7 @@ The trust game is typically played by two players. One player, called Player A, 
 
 ### Spotlight
 #### Behavioral experimental paper:
--  Research question: 
+-  Research question: how inequality affects trust and reciprocity in social relationships? Specifically, the authors aim to examine whether participants in more unequal conditions are more distrustful and less reciprocal than those in more equal conditions, and to explore the underlying mechanisms that may explain these effects.
 -  How behavior in the experiments differ from backward induction?
 -  Behavioral foundation:
 #### Reinforcement learning paper:
