@@ -45,20 +45,22 @@ The trust game is typically played by two players. One player, called the "trust
   The solution based on backward induction is often efficient and leads to mutual trust and cooperation, but it may not always be fair as it assumes rationality and perfect knowledge. It should be complemented with other approaches that incorporate fairness considerations and involve dialogue and negotiation to reach a mutually acceptable outcome, especially in complex real-world situations with diverse behaviors and contextual factors.
 
 ### Part 2: Code:  oTree Demo Customization
-- [Customized oTree code](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/code/trust-monday.otreezip) 
-- Code Customization
-  -  Endowment
+#### [Customized oTree code](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/code/trust-monday.otreezip) 
+#### Code Customization
+  -  Endowment: changed to 10.
   -  Multiplier
   -  Demonstration
-- Explanation
+#### Explanation
 
 
 ### Spotlight
-- Behavioral experimental paper:
-  -  Research question: 
-  -  How behavior in the experiments differ from backward induction?
-  -  Behavioral foundation:
-- Reinforcement learning paper:
+#### Behavioral experimental paper:
+-  Research question: 
+-  How behavior in the experiments differ from backward induction?
+-  Behavioral foundation:
+#### Reinforcement learning paper:
+- Game environment and the learning algorithm
+- How are the strategies from the reinforcement learning agents inspires you on trust building among humans? 
 
 ### More about the Author
 ![image](spotlight/soccer.jpg)
