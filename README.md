@@ -37,7 +37,14 @@ The trust game is typically played by two players. One player, called Player A, 
  
 
 #### **Evaluation**:
-  The solution based on backward induction is often efficient and leads to mutual trust and cooperation, but it may not always be fair as it assumes rationality and perfect knowledge. It should be complemented with other approaches that incorporate fairness considerations and involve dialogue and negotiation to reach a mutually acceptable outcome, especially in complex real-world situations with diverse behaviors and contextual factors.
+Efficiency:
+- The solution based on backward induction is efficient because it maximizes the total payoffs for both players, resulting in a Pareto optimal outcome where neither player can be better off without making the other player worse off.
+- The solution is also considered efficient because it is a Nash equilibrium, meaning that neither player has an incentive to deviate from their chosen strategy given the other player's choice. This encourages stability and reduces the likelihood of wasteful or unproductive behavior.
+
+Fairness:
+- The solution based on backward induction assumes that both players are rational and self-interested, and have equal opportunities to invest and receive returns. This can be seen as fair because both players have the same chance to benefit from the game's outcome.
+- However, the assumption of equal opportunities may not always hold in real-world scenarios where there are power imbalances or economic inequalities between players. In such cases, the fairness of the solution may be called into question.
+- Additionally, the solution based on backward induction does not consider the possibility of non-cooperative or untrustworthy behavior, which could lead to suboptimal outcomes for one or both players. This can be seen as unfair because it does not account for the possibility of unfair or exploitative behavior by one or both players.
 
 ### Part 2: Code: oTree Demo Customization
 #### [Customized oTree code](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/model/rro-new_project.otreezip) 
