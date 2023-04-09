@@ -97,37 +97,51 @@ It is expect to observe some differences in the behavior of subjects playing the
 
 
 ```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+@article{berg_dickhaut_mccabe_1995,
+  title=Trust, Reciprocity, and Social History,
+  author={Berg, Joyce and Dickhaut, John and McCabe, Kevin},
+  journal={Games and Economic Behavior},
+  volume={10},
+  pages={122–142},
+  year={1995},
 }
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+
+@article{gao_sibirtseva_castellano_kragic_2019,
+  title= Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction,
+  author={Gao, Yuan and Sibirtseva, Elena and Castellano, Ginevra and Kragic, Danica},
+  journal={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={305–312},
+  year={2019},
 }
-@article{berg_dickhaut_mccabe_1995, 
-title={Trust, Reciprocity, and Social History}, volume={10}, url={https://www.sciencedirect.com/science/article/pii/S0899825685710275}, DOI={https://doi.org/10.1006/game.1995.1027}, number={1}, journal={Games and Economic Behavior}, author={Berg, Joyce and Dickhaut, John and McCabe, Kevin}, year={1995}, month={Jul}, pages={122–142} } 
 
-@article{gao_sibirtseva_castellano_kragic_2019, title={Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction}, DOI={https://doi.org/10.1109/IROS40897.2019.8967924}, journal={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, author={Gao, Yuan and Sibirtseva, Elena and Castellano, Ginevra and Kragic, Danica}, year={2019}, pages={305–312} } 
+@article{gazioglu_2011,
+  title= Trust Game: Does Trust Begets Trustworthiness,
+  author={Gazioglu, Saziye},
+  journal={SSRN Electronic Journal},
+  year={2011},
+}
 
-@article{gazioglu_2011, title={Trust Game: Does Trust Begets Trustworthiness}, DOI={https://doi.org/10.2139/ssrn.1804914}, journal={SSRN Electronic Journal}, author={Gazioglu, Saziye}, year={2011} } 
+@article{perea_2010,
+  title= Backward Induction versus Forward Induction Reasoning,
+  author={Perea, Andres},
+  journal={Games},
+  pages={168-188},
+  year={2010},
+}
 
-@article{perea_2010, title={Backward Induction versus Forward Induction Reasoning}, volume={1}, DOI={https://doi.org/10.3390/g1030168}, number={3}, journal={Games}, author={Perea, Andres}, year={2010}, month={Jul}, pages={168–188} } 
+@article{rodrigo-gonzález_caballer-tarazona_garcía-gallego_2021,
+  title= Effects of Inequality on Trust and Reciprocity: An Experiment With Real Effort,
+  author={Rodrigo-González, Amalia and Caballer-Tarazona, María and García-Gallego, Aurora},
+  journal={Frontiers in Psychology},
+  year={2021},
+}
 
-@article{rodrigo-gonzález_caballer-tarazona_garcía-gallego_2021, title={Effects of Inequality on Trust and Reciprocity: An Experiment With Real Effort}, volume={12}, DOI={https://doi.org/10.3389/fpsyg.2021.745948}, journal={Frontiers in Psychology}, author={Rodrigo-González, Amalia and Caballer-Tarazona, María and García-Gallego, Aurora}, year={2021}, month={Dec} } 
+@article{wang_2018,
+  title= General Equilibrium vs. General Nash Equilibrium,
+  author={Wang, Susheng},
+  journal={SSRN Electronic Journal},
+  year={2018},
+}
 
-@article{wang_2018, title={General Equilibrium vs. General Nash Equilibrium}, DOI={https://doi.org/10.2139/ssrn.3261286}, journal={SSRN Electronic Journal}, author={Wang, Susheng}, year={2018} }
 ```
 
