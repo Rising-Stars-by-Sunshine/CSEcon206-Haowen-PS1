@@ -10,9 +10,9 @@
 
 - [Model](#Part-1-model)
 - [Code: oTree Demo Customization](#Part-2-code-otree-demo-customization)
-- spotlight
-- more about the author
-- references
+- [Spotlight：Dicussion of papers](#Part-3-Spotligh-Dicussion-of-papers)
+- [More about the Author](#More-about-the-Author)
+- [References](#references)
 
 ### Part 1: Model
 
