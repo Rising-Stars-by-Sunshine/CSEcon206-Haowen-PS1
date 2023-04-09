@@ -38,13 +38,14 @@ The trust game is typically played by two players. One player, called Player A, 
 
 #### **Evaluation**:
 Efficiency:
-- The solution based on backward induction is efficient because it maximizes the total payoffs for both players, resulting in a Pareto optimal outcome where neither player can be better off without making the other player worse off.
-- The solution is also considered efficient because it is a Nash equilibrium, meaning that neither player has an incentive to deviate from their chosen strategy given the other player's choice. This encourages stability and reduces the likelihood of wasteful or unproductive behavior.
+- This solution is efficient because it maximizes the total payoffs for both players, resulting in a optimal outcome where neither player can be better off without making the other player worse off.
+- The solution is also considered efficient because it is a Nash equilibrium, meaning that neither player has an incentive to deviate from their chosen strategy given the other player's choice. This encourages stability and reduces the likelihood of wasteful or unproductive behavior (Wang 2018).
 
 Fairness:
 - The solution based on backward induction assumes that both players are rational and self-interested, and have equal opportunities to invest and receive returns. This can be seen as fair because both players have the same chance to benefit from the game's outcome.
-- However, the assumption of equal opportunities may not always hold in real-world scenarios where there are power imbalances or economic inequalities between players. In such cases, the fairness of the solution may be called into question.
-- Additionally, the solution based on backward induction does not consider the possibility of non-cooperative or untrustworthy behavior, which could lead to suboptimal outcomes for one or both players. This can be seen as unfair because it does not account for the possibility of unfair or exploitative behavior by one or both players.
+- The solution based on backward induction does not consider the possibility of non-cooperative or untrustworthy behavior, which could lead to suboptimal outcomes for one or both players. This can be seen as unfair because it does not account for the possibility of unfair or exploitative behavior by one or both players.
+- The assumption of equal opportunities may not always hold in real-world scenarios where there are power imbalances or economic inequalities between players. In such cases, the fairness of the solution may be called into question.
+
 
 ### Part 2: Code: oTree Demo Customization
 #### [Customized oTree code](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/model/rro-new_project.otreezip) 
@@ -87,7 +88,12 @@ It is expect to observe some differences in the behavior of subjects playing the
 
 ### References
 
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+- Bibliography Berg, Joyce, John Dickhaut, and Kevin McCabe. 1995. “Trust, Reciprocity, and Social History.” Games and Economic Behavior 10 (1): 122–42. https://doi.org/10.1006/game.1995.1027.
+- Gao, Yuan, Elena Sibirtseva, Ginevra Castellano, and Danica Kragic. 2019. “Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 305–12. https://doi.org/10.1109/IROS40897.2019.8967924.
+- Gazioglu, Saziye. 2011. “Trust Game: Does Trust Begets Trustworthiness.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.1804914.
+- Perea, Andres. 2010. “Backward Induction versus Forward Induction Reasoning.” Games 1 (3): 168–88. https://doi.org/10.3390/g1030168.
+- Rodrigo-González, Amalia, María Caballer-Tarazona, and Aurora García-Gallego. 2021. “Effects of Inequality on Trust and Reciprocity: An Experiment with Real Effort.” Frontiers in Psychology 12 (December). https://doi.org/10.3389/fpsyg.2021.745948.
+- Wang, Susheng. 2018. “General Equilibrium vs. General Nash Equilibrium.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3261286.
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
