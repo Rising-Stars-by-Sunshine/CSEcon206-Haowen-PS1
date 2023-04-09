@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-- model
-- code
+- [Model](CSEcon206-Haowen-PS1#Model)
+- Code: oTree Demo Customization
 - spotlight
 - more about the author
 - references
