@@ -42,7 +42,10 @@ The customized game follows the same basic structure as the original game, but w
   -  Multiplier: changed to 5. The multiplier has been increased from 3 to 5. This alteration incentivizes player A to invest more heavily during the first round.
   -  Rule:  I modified the rule for player B. In the original game, player A would receive the amount sent back by player B. However, in the customized game, the amount sent back by player B is multiplied by 5. This means that player A has the potential to receive a high reward even if player B returns a relatively small amount.
 #### Explanation
-
+It is expect to observe some differences in the behavior of subjects playing the customized demo compared to the behavior of subjects playing the oTree demo:
+- The reduction of the endowment from 100 to 20 in the customized demo is likely to lead to more cautious behavior among players. This is because players have less money to work with, and therefore may be less likely to take risks or make aggressive investments. In contrast, players in the oTree demo with the higher endowment may feel more comfortable taking risks, since they have more money to fall back on.
+- The increase in the multiplier from 3 to 5 in the customized demo is likely to make players more incentivized to invest more heavily during the first round. This is because the potential payout for successful investments is now greater. Players in the oTree demo with the lower multiplier may be less motivated to make large investments, since the potential payout is lower.
+- The modification to the rule for player B in the customized demo is likely to change the way players approach the game. In the oTree demo, players may be more focused on sending back the exact amount they received from player A in order to break even. In the customized demo, however, players may be more willing to send back a smaller amount since it will be multiplied by 5. This could lead to more strategic behavior from both players as they try to optimize their outcomes based on the new rule. For example, player A might gives more for a higher reward.
 
 ### Part 3: Spotlight：Dicussion of papers
 #### Behavioral experimental paper:
