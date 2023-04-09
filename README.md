@@ -96,7 +96,20 @@ It is expect to observe some differences in the behavior of subjects playing the
 - Wang, Susheng. 2018. “General Equilibrium vs. General Nash Equilibrium.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3261286.
 
 ```
-@article{berg_dickhaut_mccabe_1995, title={Trust, Reciprocity, and Social History}, volume={10}, url={https://www.sciencedirect.com/science/article/pii/S0899825685710275}, DOI={https://doi.org/10.1006/game.1995.1027}, number={1}, journal={Games and Economic Behavior}, author={Berg, Joyce and Dickhaut, John and McCabe, Kevin}, year={1995}, month={Jul}, pages={122–142} } 
+```
+@article{levin2022bridging,
+  title={Bridging level-k to nash equilibrium},
+  author={Levin, Dan and Zhang, Luyao},
+  journal={Review of Economics and Statistics},
+  volume={104},
+  number={6},
+  pages={1329--1340},
+  year={2022},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+}
+
+@article{berg_dickhaut_mccabe_1995, 
+title={Trust, Reciprocity, and Social History}, volume={10}, url={https://www.sciencedirect.com/science/article/pii/S0899825685710275}, DOI={https://doi.org/10.1006/game.1995.1027}, number={1}, journal={Games and Economic Behavior}, author={Berg, Joyce and Dickhaut, John and McCabe, Kevin}, year={1995}, month={Jul}, pages={122–142} } 
 
 @article{gao_sibirtseva_castellano_kragic_2019, title={Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction}, DOI={https://doi.org/10.1109/IROS40897.2019.8967924}, journal={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, author={Gao, Yuan and Sibirtseva, Elena and Castellano, Ginevra and Kragic, Danica}, year={2019}, pages={305–312} } 
 
