@@ -37,9 +37,10 @@ The trust game is typically played by two players. One player, called Player A, 
 ### Part 2: Code: oTree Demo Customization
 #### [Customized oTree code](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/model/rro-new_project.otreezip) 
 #### Code Customization
-  -  Endowment: changed to 20. 
-  -  Multiplier: changed to 5.
-  -  Rule: 
+The customized game follows the same basic structure as the original game, but with a few key modifications. Specifically, I adjusted two parameters and changed one rule in the second round. Here are the details:
+  -  Endowment: changed to 20. The endowment has been reduced from 100 to 20. This change encourages player A to invest during the first round.
+  -  Multiplier: changed to 5. The multiplier has been increased from 3 to 5. This alteration incentivizes player A to invest more heavily during the first round.
+  -  Rule:  I modified the rule for player B. In the original game, player A would receive the amount sent back by player B. However, in the customized game, the amount sent back by player B is multiplied by 5. This means that player A has the potential to receive a high reward even if player B returns a relatively small amount.
 #### Explanation
 
 
