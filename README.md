@@ -88,12 +88,24 @@ It is expect to observe some differences in the behavior of subjects playing the
 
 ### References
 
-- Bibliography Berg, Joyce, John Dickhaut, and Kevin McCabe. 1995. “Trust, Reciprocity, and Social History.” Games and Economic Behavior 10 (1): 122–42. https://doi.org/10.1006/game.1995.1027.
+- Berg, Joyce, John Dickhaut, and Kevin McCabe. 1995. “Trust, Reciprocity, and Social History.” Games and Economic Behavior 10 (1): 122–42. https://doi.org/10.1006/game.1995.1027.
 - Gao, Yuan, Elena Sibirtseva, Ginevra Castellano, and Danica Kragic. 2019. “Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 305–12. https://doi.org/10.1109/IROS40897.2019.8967924.
 - Gazioglu, Saziye. 2011. “Trust Game: Does Trust Begets Trustworthiness.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.1804914.
 - Perea, Andres. 2010. “Backward Induction versus Forward Induction Reasoning.” Games 1 (3): 168–88. https://doi.org/10.3390/g1030168.
 - Rodrigo-González, Amalia, María Caballer-Tarazona, and Aurora García-Gallego. 2021. “Effects of Inequality on Trust and Reciprocity: An Experiment with Real Effort.” Frontiers in Psychology 12 (December). https://doi.org/10.3389/fpsyg.2021.745948.
 - Wang, Susheng. 2018. “General Equilibrium vs. General Nash Equilibrium.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3261286.
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+```
+@article{berg_dickhaut_mccabe_1995, title={Trust, Reciprocity, and Social History}, volume={10}, url={https://www.sciencedirect.com/science/article/pii/S0899825685710275}, DOI={https://doi.org/10.1006/game.1995.1027}, number={1}, journal={Games and Economic Behavior}, author={Berg, Joyce and Dickhaut, John and McCabe, Kevin}, year={1995}, month={Jul}, pages={122–142} } 
+
+@article{gao_sibirtseva_castellano_kragic_2019, title={Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction}, DOI={https://doi.org/10.1109/IROS40897.2019.8967924}, journal={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, author={Gao, Yuan and Sibirtseva, Elena and Castellano, Ginevra and Kragic, Danica}, year={2019}, pages={305–312} } 
+
+@article{gazioglu_2011, title={Trust Game: Does Trust Begets Trustworthiness}, DOI={https://doi.org/10.2139/ssrn.1804914}, journal={SSRN Electronic Journal}, author={Gazioglu, Saziye}, year={2011} } 
+
+@article{perea_2010, title={Backward Induction versus Forward Induction Reasoning}, volume={1}, DOI={https://doi.org/10.3390/g1030168}, number={3}, journal={Games}, author={Perea, Andres}, year={2010}, month={Jul}, pages={168–188} } 
+
+@article{rodrigo-gonzález_caballer-tarazona_garcía-gallego_2021, title={Effects of Inequality on Trust and Reciprocity: An Experiment With Real Effort}, volume={12}, DOI={https://doi.org/10.3389/fpsyg.2021.745948}, journal={Frontiers in Psychology}, author={Rodrigo-González, Amalia and Caballer-Tarazona, María and García-Gallego, Aurora}, year={2021}, month={Dec} } 
+
+@article{wang_2018, title={General Equilibrium vs. General Nash Equilibrium}, DOI={https://doi.org/10.2139/ssrn.3261286}, journal={SSRN Electronic Journal}, author={Wang, Susheng}, year={2018} }
+```
 
