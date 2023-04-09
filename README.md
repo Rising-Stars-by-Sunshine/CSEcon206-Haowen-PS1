@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [Model](#Part-1-model)
-- [Code: oTree Demo Customization](#code)
+- [Code: oTree Demo Customization](#Part-2-code-otree-demo-customization)
 - spotlight
 - more about the author
 - references
