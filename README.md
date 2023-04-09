@@ -10,7 +10,7 @@
 
 - [Model](#Part-1-model)
 - [Code: oTree Demo Customization](#Part-2-code-otree-demo-customization)
-- [Spotlight：Dicussion of papers](#Part-3-Spotligh-Dicussion-of-papers)
+- [Spotlight: Dicussion of papers](#Part-3-Spotlight-Dicussion-of-papers)
 - [More about the Author](#More-about-the-Author)
 - [References](#references)
 
