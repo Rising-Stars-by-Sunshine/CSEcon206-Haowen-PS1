@@ -43,7 +43,7 @@ The trust game is typically played by two players. One player, called Player A, 
 #### Explanation
 
 
-### Spotlight：Dicussion of papers
+### Part 3: Spotlight：Dicussion of papers
 #### Behavioral experimental paper:
 - Chosen paper: Rodrigo-González, Amalia, María Caballer-Tarazona, and Aurora García-Gallego. 2021. “Effects of Inequality on Trust and Reciprocity: An Experiment with Real Effort.” *Frontiers in Psychology* 12 (December). https://doi.org/10.3389/fpsyg.2021.745948.
 - Research question: how inequality affects trust and reciprocity in social relationships? Specifically, the authors aim to examine whether participants in more unequal conditions are more distrustful and less reciprocal than those in more equal conditions, and to explore the underlying mechanisms that may explain these effects (Rodrigo-González, Caballer-Tarazona, and García-Gallego 2021). 
