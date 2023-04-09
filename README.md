@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Model](CSEcon206-Haowen-PS1#Model)
+- [Model](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1#Model)
 - Code: oTree Demo Customization
 - spotlight
 - more about the author
