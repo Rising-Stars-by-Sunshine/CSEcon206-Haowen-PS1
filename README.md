@@ -95,7 +95,7 @@ It is expect to observe some differences in the behavior of subjects playing the
 - Rodrigo-González, Amalia, María Caballer-Tarazona, and Aurora García-Gallego. 2021. “Effects of Inequality on Trust and Reciprocity: An Experiment with Real Effort.” Frontiers in Psychology 12 (December). https://doi.org/10.3389/fpsyg.2021.745948.
 - Wang, Susheng. 2018. “General Equilibrium vs. General Nash Equilibrium.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3261286.
 
-```
+
 ```
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
@@ -107,7 +107,16 @@ It is expect to observe some differences in the behavior of subjects playing the
   year={2022},
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
-
+@article{levin2022bridging,
+  title={Bridging level-k to nash equilibrium},
+  author={Levin, Dan and Zhang, Luyao},
+  journal={Review of Economics and Statistics},
+  volume={104},
+  number={6},
+  pages={1329--1340},
+  year={2022},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+}
 @article{berg_dickhaut_mccabe_1995, 
 title={Trust, Reciprocity, and Social History}, volume={10}, url={https://www.sciencedirect.com/science/article/pii/S0899825685710275}, DOI={https://doi.org/10.1006/game.1995.1027}, number={1}, journal={Games and Economic Behavior}, author={Berg, Joyce and Dickhaut, John and McCabe, Kevin}, year={1995}, month={Jul}, pages={122–142} } 
 
