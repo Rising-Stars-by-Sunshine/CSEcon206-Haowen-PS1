@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Model](#model)
+- [Model](#Part-1-model)
 - [Code: oTree Demo Customization](#code)
 - spotlight
 - more about the author
