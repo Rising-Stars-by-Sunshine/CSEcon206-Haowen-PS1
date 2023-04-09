@@ -10,7 +10,7 @@
 
 - [Model](#Part-1-model)
 - [Code: oTree Demo Customization](#Part-2-code-otree-demo-customization)
-- [Spotlight: Dicussion of papers](#Part-3-Spotlight-Dicussion-of-papers)
+- [Spotlight: Dicussion of papers](#Part-3-Spotlight)
 - [More about the Author](#More-about-the-Author)
 - [References](#references)
 
@@ -47,7 +47,7 @@ It is expect to observe some differences in the behavior of subjects playing the
 - The increase in the multiplier from 3 to 5 in the customized demo is likely to make players more incentivized to invest more heavily during the first round. This is because the potential payout for successful investments is now greater. Players in the oTree demo with the lower multiplier may be less motivated to make large investments, since the potential payout is lower.
 - The modification to the rule for player B in the customized demo is likely to change the way players approach the game. In the oTree demo, players may be more focused on sending back the exact amount they received from player A in order to break even. In the customized demo, however, players may be more willing to send back a smaller amount since it will be multiplied by 5. This could lead to more strategic behavior from both players as they try to optimize their outcomes based on the new rule. For example, player A might gives more for a higher reward.
 
-### Part 3: Spotlight：Dicussion of papers
+### Part 3: Spotlight
 #### Behavioral experimental paper:
 - Chosen paper: Rodrigo-González, Amalia, María Caballer-Tarazona, and Aurora García-Gallego. 2021. “Effects of Inequality on Trust and Reciprocity: An Experiment with Real Effort.” *Frontiers in Psychology* 12 (December). https://doi.org/10.3389/fpsyg.2021.745948.
 - Research question: how inequality affects trust and reciprocity in social relationships? Specifically, the authors aim to examine whether participants in more unequal conditions are more distrustful and less reciprocal than those in more equal conditions, and to explore the underlying mechanisms that may explain these effects (Rodrigo-González, Caballer-Tarazona, and García-Gallego 2021). 
