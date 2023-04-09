@@ -16,14 +16,14 @@
 
 ### Part 1: Model
 
-The trust game is typically played by two players. One player, called Player A, is given an endowment (or initial sum of money) and must decide how much of it to send to the other player, called the Player B. The amount sent by the Player A is referred to as the "investment." The Player B then has the option to either keep the investment or to return a portion of it, referred to as the "reciprocity" amount, back to the Player A. In the following description of this part, I analyzed 
+The trust game is typically played by two players. One player, called Player A, is given an endowment (or initial sum of money) and must decide how much of it to send to the other player, called the Player B. The amount sent by the Player A is referred to as the "investment." The Player B then has the option to either keep the investment or to return a portion of it, referred to as the "reciprocity" amount, back to the Player A. In the following description of this part, I analyzed the game environment, backward induction and evaluation.
 
 #### **Game Environment**:
   - *Set of the players*: The set of players consists of two anonymous individuals who do not know each other. They are randomly matched and do not have any information about the other player's identity or characteristics.
   - *Strategies*: The investor can choose to keep the money or invest a portion of it with the Player B. The Player B can choose to either return the investment plus an additional amount (representing trust and reciprocity) or keep the investment for themselves (representing non-cooperation).
   - *Payoffs*: If the investor chooses to invest, the amount invested is multiplied by a factor, and this amount is then given to the Player B. The Player B can then choose to either return the investment plus an additional amount (representing trust and reciprocity), or keep the investment for themselves (representing non-cooperation). If the Player B chooses to return the investment plus an additional amount, both players receive a positive *payoff*. However, if the Player B keeps the investment for themselves, both players receive a negative *payoff*. If the investor chooses not to invest, both players receive a *payoff* of zero.
 
-#### Backward induction 
+#### **Backward induction** 
 
    Backward induction is a reasoning process in game theory that involves reasoning backwards in time, allowing a player to determine sequential optimal actions in a game. It allows an individual to think of the end of a problem and then apply the sequence of events to decide what to do at a particular stage, making it a powerful tool for analyzing strategic decision-making in complex situations. (Perea 2010) 
    
@@ -31,17 +31,17 @@ The trust game is typically played by two players. One player, called Player A, 
 
   Based on backward induction, the optimal strategy for each player in the trust game is for the investor to invest, and for the Player B to return the investment plus an additional amount. 
 
-#### Evaluation:
+#### **Evaluation**:
   The solution based on backward induction is often efficient and leads to mutual trust and cooperation, but it may not always be fair as it assumes rationality and perfect knowledge. It should be complemented with other approaches that incorporate fairness considerations and involve dialogue and negotiation to reach a mutually acceptable outcome, especially in complex real-world situations with diverse behaviors and contextual factors.
 
 ### Part 2: Code: oTree Demo Customization
 #### [Customized oTree code](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1/blob/main/model/rro-new_project.otreezip) 
-#### Code Customization
+#### **Code Customization**
 The customized game follows the same basic structure as the original game, but with a few key modifications. Specifically, I adjusted two parameters and changed one rule in the second round. Here are the details:
   -  Endowment: changed to 20. The endowment has been reduced from 100 to 20. This change encourages player A to invest during the first round.
   -  Multiplier: changed to 5. The multiplier has been increased from 3 to 5. This alteration incentivizes player A to invest more heavily during the first round.
   -  Rule:  I modified the rule for player B. In the original game, player A would receive the amount sent back by player B. However, in the customized game, the amount sent back by player B is multiplied by 5. This means that player A has the potential to receive a high reward even if player B returns a relatively small amount.
-#### Explanation
+#### **Explanation**
 It is expect to observe some differences in the behavior of subjects playing the customized demo compared to the behavior of subjects playing the oTree demo:
 - The reduction of the endowment from 100 to 20 in the customized demo is likely to lead to more cautious behavior among players. This is because players have less money to work with, and therefore may be less likely to take risks or make aggressive investments. In contrast, players in the oTree demo with the higher endowment may feel more comfortable taking risks, since they have more money to fall back on.
 - The increase in the multiplier from 3 to 5 in the customized demo is likely to make players more incentivized to invest more heavily during the first round. This is because the potential payout for successful investments is now greater. Players in the oTree demo with the lower multiplier may be less motivated to make large investments, since the potential payout is lower.
