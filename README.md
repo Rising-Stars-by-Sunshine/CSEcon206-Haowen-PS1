@@ -38,14 +38,9 @@ The trust game is typically played by two players. One player, called Player A, 
  
 
 #### **Evaluation**:
-Efficiency:
-- This solution is efficient because it maximizes the total payoffs for both players, resulting in an optimal outcome where neither player can be better off without making the other player worse off.
-- The solution is also considered efficient because it is a Nash equilibrium, meaning that neither player has the incentive to deviate from their chosen strategy given the other player's choice. This encourages stability and reduces the likelihood of wasteful or unproductive behavior (Wang 2018).
+- **Efficiency**: Efficiency in game theory refers to the extent to which a solution maximizes the total payoff or welfare of the players involved. An efficient outcome occurs when there are no alternative strategies that can lead to a higher total payoff without decreasing the payoff of any individual player. In the context of the given game, the solution based on backward induction, where both players consistently choose not to cooperate by not giving anything or returning any units, is not the most efficient outcome. This is because there could potentially be alternative strategies or cooperative actions that would result in higher total payoffs for both players. Cooperative strategies, such as mutual investment or reciprocal trust, could potentially lead to increased gains for both players compared to the non-cooperative outcome.
 
-Fairness:
-- The solution based on backward induction assumes that both players are rational and self-interested, and have equal opportunities to invest and receive returns. This can be seen as fair because both players have the same chance to benefit from the game's outcome.
-- The solution based on backward induction does not consider the possibility of non-cooperative or untrustworthy behavior, which could lead to suboptimal outcomes for one or both players. This can be seen as unfair because it does not account for the possibility of unfair or exploitative behavior by one or both players.
-- The assumption of equal opportunities may not always hold in real-world scenarios where there are power imbalances or economic inequalities between players. In such cases, the fairness of the solution may be called into question.
+- Fairness: Fairness in game theory refers to the distribution of payoffs among the players. Fairness can be subjective and can vary depending on individual perspectives and societal norms. Different fairness criteria, such as egalitarianism or proportionality, can be used to evaluate the fairness of a solution. In the context of the given game, the solution based on backward induction, where both players consistently choose not to cooperate, may not be perceived as fair by all individuals. This is because the non-cooperative outcome may lead to a situation where neither player benefits significantly, potentially resulting in a perception of unfairness. For example, player A can hold the endowment at each round, while Player B cannot get anything.
 
 
 ### Part 2: Code: oTree Demo Customization
