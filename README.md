@@ -38,9 +38,9 @@ The trust game is typically played by two players. One player, called Player A, 
  
 
 #### **Evaluation**:
-- **Efficiency**: Efficiency in game theory refers to the extent to which a solution maximizes the total payoff or welfare of the players involved. An efficient outcome occurs when there are no alternative strategies that can lead to a higher total payoff without decreasing the payoff of any individual player. In the context of the given game, the solution based on backward induction, where both players consistently choose not to cooperate by not giving anything or returning any units, is not the most efficient outcome. This is because there could potentially be alternative strategies or cooperative actions that would result in higher total payoffs for both players. Cooperative strategies, such as mutual investment or reciprocal trust, could potentially lead to increased gains for both players compared to the non-cooperative outcome.
+- **Efficiency**: Efficiency in game theory refers to the extent to which a solution maximizes the total payoff or welfare of the players involved (Rabin 2011). An efficient outcome occurs when there are no alternative strategies that can lead to a higher total payoff without decreasing the payoff of any individual player. In the context of the given game, the solution based on backward induction, where both players consistently choose not to cooperate by not giving anything or returning any units, is not the most efficient outcome. This is because there could potentially be alternative strategies or cooperative actions that would result in higher total payoffs for both players. Cooperative strategies, such as mutual investment or reciprocal trust, could potentially lead to increased gains for both players compared to the non-cooperative outcome.
 
-- Fairness: Fairness in game theory refers to the distribution of payoffs among the players. Fairness can be subjective and can vary depending on individual perspectives and societal norms. Different fairness criteria, such as egalitarianism or proportionality, can be used to evaluate the fairness of a solution. In the context of the given game, the solution based on backward induction, where both players consistently choose not to cooperate, may not be perceived as fair by all individuals. This is because the non-cooperative outcome may lead to a situation where neither player benefits significantly, potentially resulting in a perception of unfairness. For example, player A can hold the endowment at each round, while Player B cannot get anything.
+- Fairness: Fairness in game theory refers to the distribution of payoffs among the players (Rabin 2011). Fairness can be subjective and can vary depending on individual perspectives and societal norms. Different fairness criteria, such as egalitarianism or proportionality, can be used to evaluate the fairness of a solution. In the context of the given game, the solution based on backward induction, where both players consistently choose not to cooperate, may not be perceived as fair by all individuals. This is because the non-cooperative outcome may lead to a situation where neither player benefits significantly, potentially resulting in a perception of unfairness. For example, player A can hold the endowment at each round, while Player B cannot get anything.
 
 
 ### Part 2: Code: oTree Demo Customization
@@ -71,7 +71,7 @@ It is expected to observe some differences in the behavior of subjects playing t
 
 - The game environment and learning algorithm: 
   - The game environment used in this paper is a simplified version of the classic game Pong. In this environment, two paddles are placed on either side of the screen, and a ball is bounced back and forth between them. The goal of each player is to prevent the ball from getting past their paddle.
-  - The learning algorithm used in this paper is a variant of deep reinforcement learning called Deep Q-Networks (DQN). DQN is a form of Q-learning that uses a neural network to estimate the Q-function (the expected future reward for taking a particular action in a particular state). The DQN algorithm used in this paper incorporates several enhancements, including experience replay and target networks, to improve stability and performance. The authors also introduce a new method called "double Q-learning" to further improve the accuracy of the Q-function estimates.
+  - The learning algorithm used in this paper is a variant of deep reinforcement learning called Deep Q-Networks (DQN) (Meng et al. 2022). DQN is a form of Q-learning that uses a neural network to estimate the Q-function (the expected future reward for taking a particular action in a particular state). The DQN algorithm used in this paper incorporates several enhancements, including experience replay and target networks, to improve stability and performance. The authors also introduce a new method called "double Q-learning" to further improve the accuracy of the Q-function estimates.
 
 - Inspirations from reinforcement learning agent strategies:
   - Firstly, transparency and effective communication are key factors in building trust. The agents in the game environment communicated regularly and updated their policies based on the information they received. Similarly, in human interactions, clear communication of intentions, actions, and outcomes can help establish a sense of trust and reliability. Being open and honest with one another can create a foundation of trust and prevent misunderstandings that can damage relationships.
@@ -87,7 +87,9 @@ It is expected to observe some differences in the behavior of subjects playing t
 - Berg, Joyce, John Dickhaut, and Kevin McCabe. 1995. “Trust, Reciprocity, and Social History.” Games and Economic Behavior 10 (1): 122–42. https://doi.org/10.1006/game.1995.1027.
 - Gao, Yuan, Elena Sibirtseva, Ginevra Castellano, and Danica Kragic. 2019. “Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 305–12. https://doi.org/10.1109/IROS40897.2019.8967924.
 - Gazioglu, Saziye. 2011. “Trust Game: Does Trust Begets Trustworthiness.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.1804914.
+- Meng, Li, Anis Yazidi, Morten Goodwin, and Paal Engelstad. 2022. “Expert Q-Learning: Deep Reinforcement Learning with Coarse State Values from Offline Expert Examples.” Proceedings of the Northern Lights Deep Learning Workshop 3 (March). https://doi.org/10.7557/18.6237.
 - Perea, Andres. 2010. “Backward Induction versus Forward Induction Reasoning.” Games 1 (3): 168–88. https://doi.org/10.3390/g1030168.
+- Rabin, Matthew. 2011. “Incorporating Fairness into Game Theory and Economics.” Princeton University Press EBooks, December, 297–325. https://doi.org/10.2307/j.ctvcm4j8j.15.
 - Rodrigo-González, Amalia, María Caballer-Tarazona, and Aurora García-Gallego. 2021. “Effects of Inequality on Trust and Reciprocity: An Experiment with Real Effort.” Frontiers in Psychology 12 (December). https://doi.org/10.3389/fpsyg.2021.745948.
 - Wang, Susheng. 2018. “General Equilibrium vs. General Nash Equilibrium.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3261286.
 
@@ -117,12 +119,33 @@ It is expected to observe some differences in the behavior of subjects playing t
   year={2011},
 }
 
+ @article{meng_yazidi_goodwin_engelstad_2022, 
+  title={Expert Q-learning: Deep Reinforcement Learning with Coarse State Values from Offline Expert Examples}, 
+  volume={3}, 
+  DOI={https://doi.org/10.7557/18.6237}, 
+  journal={Proceedings of the Northern Lights Deep Learning Workshop}, 
+  author={Meng, Li and Yazidi, Anis and Goodwin, Morten and Engelstad, Paal}, 
+  year={2022}, 
+  month={Mar} 
+}
+
 @article{perea_2010,
   title= Backward Induction versus Forward Induction Reasoning,
   author={Perea, Andres},
   journal={Games},
   pages={168-188},
   year={2010},
+}
+
+ @article{rabin_2011, 
+  title={Incorporating Fairness into Game Theory and Economics}, 
+  DOI={https://doi.org/10.2307/j.ctvcm4j8j.15}, 
+  journal={Princeton University Press eBooks}, 
+  publisher={Princeton University Press}, 
+  author={Rabin, Matthew}, 
+  year={2011}, 
+  month={Dec}, 
+  pages={297–325} 
 }
 
 @article{rodrigo-gonzález_caballer-tarazona_garcía-gallego_2021,
